@@ -10,10 +10,13 @@ Hosted on Firebase
 
 # App Features
 Select single/multiple/all product(s)  
+![gif select](https://github.com/alohajt/riot-cart-firebase/blob/master/images/select.gif?raw=true)  
 
 Add product with quantity, subtotal and total cost change  
+![gif add](https://github.com/alohajt/riot-cart-firebase/blob/master/images/add.gif?raw=true)  
 
 Remove single, selected and all product(s)  
+![gif remove](https://github.com/alohajt/riot-cart-firebase/blob/master/images/remove.gif?raw=true)  
 
 # Challenges
 This is my first time using jQuery. jQuery simplifies many JS DOM actions, but learning syntax and concepts needed for this project took me three days.  
